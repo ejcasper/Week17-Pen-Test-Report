@@ -49,6 +49,8 @@ Moderate	4.0 - 6.9	Vulnerabilities exist but require additional steps. Form a pl
 Low	0.1 - 3.9	Vulnerabilities are non-exploitable. Form a plan of action and patch during routine maintenance.
 Informational	N/A	No vulnerabilities exist. Additional information provided regarding items.
 
+Severity Level:
+![Path](Se)
 
 Findings
 
@@ -68,7 +70,9 @@ Severity:
 Severe (7.5) -- Buffer Overflow attacks are very common and pose a serious threat to operating systems and user applications.  I believe Goodcorp needs to do everything possible to mitigate this vulnerability.
 
 Proof of Concept:
+
 ![Path to diagram](Diagrams/Screenshot.png)
+
 ![path](Diagrams/Step2.jpg)
 
 
