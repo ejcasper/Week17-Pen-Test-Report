@@ -50,7 +50,8 @@ Low	0.1 - 3.9	Vulnerabilities are non-exploitable. Form a plan of action and pat
 Informational	N/A	No vulnerabilities exist. Additional information provided regarding items.
 
 Severity Level:
-![Path](Se)
+![Path](Diagrams/Table.png)
+
 
 Findings
 
