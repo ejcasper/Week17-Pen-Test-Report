@@ -1,5 +1,7 @@
 # Week17-Pen-Test-Report
 Week 17 Penetration Testing and Report
+![Path to diagram](Diagrams/Screenshot.png)
+
 
 ## Homework: Penetration Test Engagement
 
