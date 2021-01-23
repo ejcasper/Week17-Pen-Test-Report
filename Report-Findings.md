@@ -68,9 +68,10 @@ Severity:
 Severe (7.5) -- Buffer Overflow attacks are very common and pose a serious threat to operating systems and user applications.  I believe Goodcorp needs to do everything possible to mitigate this vulnerability.
 
 Proof of Concept:
- ![Path to diagram](Diagrams/Screenshot.png)
- 
 ![Path to diagram](Diagrams/Screenshot.png)
+![path](Diagrams/Step2.jpg)
+
+
 
 
 
