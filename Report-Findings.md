@@ -83,18 +83,14 @@ Severe (7.5) -- Buffer Overflow attacks are very common and pose a serious threa
 ![path](Diagrams/StepBonusC2.jpg)
 
 
-#### Recommendations
+### Recommendations
 
 Below are my recommendations for GoodCorp and Mr. Gruber to implement.  Although not every recommendation needs to be taken, I strongly encourage the company to address one remedy immediately.  
--	Upgrade Icecast to version 2.0.2: 
-o	Icecast version 2.0.2 has all the necessary updates to prevent this vulnerability.
+-	Upgrade Icecast to version 2.0.2: Icecast version 2.0.2 has all the necessary updates to prevent this vulnerability.
 
--	Set up a Wireless Application Firewall (WAF):
-o	A WAF can prevent Buffer Overflow attacks by setting the accepted maximum thresholds for aspects of HTTP requests, and blocking requests that exceed the configured limits.
--	Patch outdated systems:
-o	Don’t wait for issues like this vulnerability to happen.  Patch any outdated servers immediately. Be proactive and set up a system to have servers patched regularly.
--	Remove Icecast:
-o	If Icecast is not a valued business resource, consider removing altogether. 
+-	Set up a Wireless Application Firewall (WAF): A WAF can prevent Buffer Overflow attacks by setting the accepted maximum thresholds for aspects of HTTP requests, and blocking requests that exceed the configured limits.
+-	Patch outdated systems:	Don’t wait for issues like this vulnerability to happen.  Patch any outdated servers immediately. Be proactive and set up a system to have servers patched regularly.
+-	Remove Icecast: If Icecast is not a valued business resource, consider removing altogether. 
 
 
 
