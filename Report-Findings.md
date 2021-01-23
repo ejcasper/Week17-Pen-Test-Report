@@ -76,9 +76,29 @@ Proof of Concept:
 
 ![path](Diagrams/Step2.jpg)
 
+![path](Diagrams/Step3.jpg)
 
+![Path](Diagrams/Step4.jpg)
 
+![path](Diagrams/Step4b.jpg)
 
+![path](Diagrams/Step5.jpg)
+
+![path](Diagrams/Step6b.jpg)
+
+![path](Diagrams/Step7.jpg)
+
+![path](Diagrams/Step7b.jpg)
+
+![path](Diagrams/Step7c.jpg)
+
+![path](Diagrams/Step8.jpg)
+
+![path](Diagrams/StepBonusA.jpg)
+
+![path](Diagrams/StepBonusC.jpg)
+
+![path](Diagrams/StepBonusC2.jpg)
 
 
 Recommendations
